@@ -1,16 +1,4 @@
-# xylophone
+# Xylophone 🎹
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are.
+![Screenshot_20230613_135108](https://github.com/piushanCnakandala/Xylophone--music-app/assets/91194567/3c249032-5bdb-445d-9ef8-8b331a18f1ce)
